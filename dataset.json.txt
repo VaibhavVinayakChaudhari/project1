@@ -1,0 +1,9 @@
+[
+    {"sender": "bot", "message": "Hello! How can I help you today?"},
+    {"sender": "user", "message": "Tell me about your services."},
+    {"sender": "bot", "message": "We offer a wide range of services, including product consultation and technical support."},
+    {"sender": "user", "message": "How do I contact your support team?"},
+    {"sender": "bot", "message": "You can contact our support team at support@example.com or call our helpline at +1-800-123-4567."},
+    {"sender": "user", "message": "Thank you for the information!"}
+]
+
